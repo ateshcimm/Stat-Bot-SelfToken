@@ -1,5 +1,5 @@
 # Stat-Bot-SelfToken
-Herhangi Bi Sunucuda Yetkili İseniz Direk O sesin Kanalındaki İnsanların Statlarını Çekmeye Başlar ve Ekstra olarak anlık günlük haftalık veri çeker ve statları atar. Sistem Veriyi A sunucudan B sunucusuna atar
+Herhangi Bi Sunucuda Yetkili İseniz Direk O sesin Kanalındaki İnsanların Statlarını Çekmeye Başlar ve Ekstra olarak anlık günlük haftalık veri çeker ve statları atar. Sistem Veriyi A sunucudan B sunucusuna atar Logu Da b sunucuda düşer
 
 # 35 Star'da Sizde
 
